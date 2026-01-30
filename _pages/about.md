@@ -84,6 +84,7 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
   IEEE Transactions on Intelligent Transportation Systems
 
 # 🎖 Honors and Awards
+- *2025.06* Liaoning Province Outstanding Graduates
 - *2024.10* National Scholarship for Graduate Students.
 - *2021.10* Second Prize, East China Regional Competition of the National Undergraduate Internet of Things Design Contest (Huawei Cup).
 - *2021.09* Second Prize, Chinese Collegiate Computing Competition.
@@ -94,10 +95,11 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 - *2020.09* Bronze Award, 10th “Challenge Cup” Anhui Provincial College Students’ Entrepreneurship Plan Competition
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06 - (now)*, Computer Science and Technology, Nanjing University. 
+- *2022.09 - 2025.06*, Electronic Information, Shenyang Aerospace University.
+- *2018.09 - 2022.06*, Software Engineering, Chuzhou University.
 
-# 💬 Invited Talks
+# 💬 Invited Talks 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
