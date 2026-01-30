@@ -45,7 +45,7 @@ My research interests mainly include V2X, Vehicle Edge Computing, Internet of Th
 </div> -->
 
 - [Overtaking Feasibility Prediction for Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/10535043)
-  Liang Zhao, Hui Qian, Ammar Hawbani, Ahmed Y. Al-Dubai, Zhiyuan Tan, Keping Yu, Albert Y. Zomaya
+  Liang Zhao, Hui Qian, Ammar Hawbani, Ahmed Y. Al-Dubai, Zhiyuan Tan, Keping Yu, Albert Y. Zomaya //
   IEEE Transactions on Intelligent Transportation Systems
 
 # 🎖 Honors and Awards
