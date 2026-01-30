@@ -64,19 +64,19 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
   
   IEEE Transactions on Intelligent Transportation Systems
 
-- [Adaptive Nearest Neighbor Sememe Tree Generation Model.](https://ieeexplore.ieee.org/document/10535043)
+- [Adaptive Nearest Neighbor Sememe Tree Generation Model.](https://link.springer.com/chapter/10.1007/978-981-96-6603-4_15)
 
   Sijia Shen, Peiyan Wang, **Hui Qian**, Zhongwu Li
 
   International Conference on Neural Information Processing
 
-- [A Collaborative Error Detection and Correction Scheme for Safety Message in V2X.](https://ieeexplore.ieee.org/document/10535043)
+- [A Collaborative Error Detection and Correction Scheme for Safety Message in V2X.](https://ieeexplore.ieee.org/document/10748398)
 
   **Hui Qian**, Hongmei Chai, Ammar Hawbani, Yuanguo Bi, Na Lin, Liang Zhao
 
   IEEE Transactions on Mobile Computing
 
-- [Collaborative Overtaking Strategy for Enhancing Overall Effectiveness of Mixed Connected and Connectionless Vehicles.](https://ieeexplore.ieee.org/document/10535043)
+- [Collaborative Overtaking Strategy for Enhancing Overall Effectiveness of Mixed Connected and Connectionless Vehicles.](https://ieeexplore.ieee.org/document/10598385)
 
   **Hui Qian**, Liang Zhao, Ammar Hawbani, Zhi Liu, Keping Yu, Qiang He, Yuanguo Bi
 
