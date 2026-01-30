@@ -92,7 +92,7 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 - *2021.07* Second Prize, Chinese Collegiate Computing Competition.
 - *2021.01* Second Prize, Anhui Provincial Undergraduate Logistics Innovation Design Competition.
 - *2020.12* First Prize, Anhui Provincial College Internet of Things Application Innovation Competition.
-- *2020.09* Bronze Award, 6th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition;
+- *2020.09* Bronze Award, 6th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition.
 
 # 📖 Educations
 - *2025.06 - (now)*, Computer Science and Technology, Nanjing University. 
