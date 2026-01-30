@@ -76,7 +76,7 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 
   IEEE Transactions on Mobile Computing
 
-- [Overtaking Feasibility Prediction for Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/10535043)
+- [Overtaking Feasibility Prediction for Mixed Connected and Connectionless Vehicles.]([[https://ieeexplore.ieee.org/document/10535043](https://ieeexplore.ieee.org/document/10535043))
 
   
   Liang Zhao, **Hui Qian**, Ammar Hawbani, Ahmed Y. Al-Dubai, Zhiyuan Tan, Keping Yu, Albert Y. Zomaya
