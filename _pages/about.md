@@ -44,6 +44,18 @@ My research interests mainly include V2X, Vehicle Edge Computing, Internet of Th
 </div>
 </div> -->
 
+- [Fairness-Aware Overtaking Decision Optimization for Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/11222861])
+
+  **Hui Qian**, Liang Zhao, Xiongyan Tang, Ammar Hawbani, Xinzhou Cheng, Lexi Xu, Yuanguo Bi
+
+  IEEE Transactions on Mobile Computing
+
+- [TRACER: Transfer Knowledge-Based Collaborative Vehicle Trajectory Prediction for Highway Traffic Toward Cross-Region Adaptivity.]([https://ieeexplore.ieee.org/document/10919186)
+  
+  **Hui Qian**, Xin Shi, Ammar Hawbani, Yuanguo Bi, Zhi Liu, Ammar Muthanna, Liang Zhao
+  
+  IEEE Transactions on Intelligent Transportation Systems
+
 - [A Collaborative Error Detection and Correction Scheme for Safety Message in V2X.]([https://ieeexplore.ieee.org/document/10535043])
 
   **Hui Qian**, Hongmei Chai, Ammar Hawbani, Yuanguo Bi, Na Lin, Liang Zhao
