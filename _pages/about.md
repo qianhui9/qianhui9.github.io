@@ -87,7 +87,7 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 - *2025.06* Liaoning Province Outstanding Graduates
 - *2024.10* National Scholarship for Graduate Students.
 - *2022.07* Bronze Award, 10th “Challenge Cup” Anhui Provincial College Students’ Entrepreneurship Plan Competition
-- *2021.09* Silver Award, 7th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition (two awards);
+- *2021.09* Silver Award, 7th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition (two awards).
 - *2021.08* Second Prize, East China Regional Competition of the National Undergraduate Internet of Things Design Contest (Huawei Cup).
 - *2021.07* Second Prize, Chinese Collegiate Computing Competition.
 - *2021.01* Second Prize, Anhui Provincial Undergraduate Logistics Innovation Design Competition.
