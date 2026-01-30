@@ -23,12 +23,12 @@ My research interests mainly include V2X, Vehicle Edge Computing, Internet of Th
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by ICNIP.
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC.
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS. 
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by the journal of IEEE TMC. 
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by the journal of IEEE TITS.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by the conference of ICNIP.
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by the journal of IEEE TMC.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by the journal of IEEE TMC. 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by the journal of IEEE TITS. 
 
 # 📝 Publications 
 
@@ -44,7 +44,16 @@ My research interests mainly include V2X, Vehicle Edge Computing, Internet of Th
 </div>
 </div> -->
 
+
+- [Collaborative Overtaking Strategy for Enhancing Overall Effectiveness of Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/10535043])
+
+  **Hui Qian**, Liang Zhao, Ammar Hawbani, Zhi Liu, Keping Yu, Qiang He, Yuanguo Bi
+
+  IEEE Transactions on Mobile Computing
+
 - [Overtaking Feasibility Prediction for Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/10535043)
+
+  
   Liang Zhao, **Hui Qian**, Ammar Hawbani, Ahmed Y. Al-Dubai, Zhiyuan Tan, Keping Yu, Albert Y. Zomaya
   
   IEEE Transactions on Intelligent Transportation Systems
