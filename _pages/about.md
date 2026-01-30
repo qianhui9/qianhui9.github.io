@@ -52,7 +52,7 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 </div>
 </div> -->
 
-- [Fairness-Aware Overtaking Decision Optimization for Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/11222861])
+- [Fairness-Aware Overtaking Decision Optimization for Mixed Connected and Connectionless Vehicles.](https://ieeexplore.ieee.org/document/11222861)
 
   **Hui Qian**, Liang Zhao, Xiongyan Tang, Ammar Hawbani, Xinzhou Cheng, Lexi Xu, Yuanguo Bi
 
