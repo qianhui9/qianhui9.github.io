@@ -21,6 +21,12 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 
 My research interests mainly include V2X, Mobile Edge Computing, Internet of Things, 3D Object Detection, and Intelligent Transportation Systems. I have published more than 6 papers at the top international academic conferences and journals with total <a href='https://scholar.google.com/citations?user=pBvsc1sAAAAJ'> Google Scholar citations  84</a>.
 
+## 🤔 Research Interests:
+- Mobile Edge Computing
+- 3D Object Detection
+- Internet of Things
+- Deep Reinforcement Learning
+- Intelligent Transportation Systems
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by the journal of IEEE TMC. 
