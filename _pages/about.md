@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am currently working toward my PhD degree with the State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, China. Before that, I received my master's degree from the Department of Computer Science, Shenyang Aerospace University, Shenyang, China, in 2025, under the supervision of Prof.Liang Zhao.
 
-My research interests mainly include V2X, Vehicle Edge Computing, Internet of Things, and Intelligent Transportation Systems. I have published more than 6 papers at the top international academic conferences and journals with total <a href='https://scholar.google.com/citations?user=pBvsc1sAAAAJ'> Google Scholar citations  84</a> .
+My research interests mainly include V2X, Mobile Edge Computing, Internet of Things, 3D Object Detection, and Intelligent Transportation Systems. I have published more than 6 papers at the top international academic conferences and journals with total <a href='https://scholar.google.com/citations?user=pBvsc1sAAAAJ'> Google Scholar citations  84</a>.
 
 
 # 🔥 News
