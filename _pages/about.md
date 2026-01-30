@@ -86,13 +86,13 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 # 🎖 Honors and Awards
 - *2025.06* Liaoning Province Outstanding Graduates
 - *2024.10* National Scholarship for Graduate Students.
-- *2021.10* Second Prize, East China Regional Competition of the National Undergraduate Internet of Things Design Contest (Huawei Cup).
-- *2021.09* Second Prize, Chinese Collegiate Computing Competition.
-- *2020.09* First Prize, Anhui Provincial College Internet of Things Application Innovation Competition.
-- *2020.09* Second Prize, Anhui Provincial Undergraduate Logistics Innovation Design Competition.
+- *2022.07* Bronze Award, 10th “Challenge Cup” Anhui Provincial College Students’ Entrepreneurship Plan Competition
+- *2021.08* Second Prize, East China Regional Competition of the National Undergraduate Internet of Things Design Contest (Huawei Cup).
+- *2021.07* Second Prize, Chinese Collegiate Computing Competition.
+- *2021.09* Silver Award, 7th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition (two awards);
+- *2020.12* First Prize, Anhui Provincial College Internet of Things Application Innovation Competition.
+- *2021.01* Second Prize, Anhui Provincial Undergraduate Logistics Innovation Design Competition.
 - *2020.09* Bronze Award, 6th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition;
-- *2020.09* Silver Award, 7th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition (two awards);
-- *2020.09* Bronze Award, 10th “Challenge Cup” Anhui Provincial College Students’ Entrepreneurship Plan Competition
 
 # 📖 Educations
 - *2025.06 - (now)*, Computer Science and Technology, Nanjing University. 
@@ -101,4 +101,4 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 
 # 💬 Academic Exchange and Internships
 - *2023.07 - 2023.08*, Academic Exchange Program in Internet of Things (IoT), Tamkang University, Taiwan. 
-- *2019.03 - 2022.03*, Research Training in Smart Fire Protection Laboratory, Chuzhou University. 
+- *2019.03 - 2022.03*, Research Training in Smart Fire Protection Laboratory, Chuzhou University, Anhui. 
