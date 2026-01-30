@@ -84,8 +84,14 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
   IEEE Transactions on Intelligent Transportation Systems
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* National Scholarship for Graduate Students.
+- *2021.10* Second Prize, East China Regional Competition of the National Undergraduate Internet of Things Design Contest (Huawei Cup).
+- *2021.09* Second Prize, Chinese Collegiate Computing Competition.
+- *2020.09* First Prize, Anhui Provincial College Internet of Things Application Innovation Competition.
+- *2020.09* Second Prize, Anhui Provincial Undergraduate Logistics Innovation Design Competition.
+- *2020.09* Bronze Award, 6th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition;
+- *2020.09* Silver Award, 7th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition (two awards);
+- *2020.09* Bronze Award, 10th “Challenge Cup” Anhui Provincial College Students’ Entrepreneurship Plan Competition
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
