@@ -23,12 +23,16 @@ My research interests mainly include V2X, Vehicle Edge Computing, Internet of Th
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by ICNIP.
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,9 +42,11 @@ My research interests mainly include V2X, Vehicle Edge Computing, Internet of Th
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Overtaking Feasibility Prediction for Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/10535043)
+  Liang Zhao, Hui Qian, Ammar Hawbani, Ahmed Y. Al-Dubai, Zhiyuan Tan, Keping Yu, Albert Y. Zomaya
+  IEEE Transactions on Intelligent Transportation Systems
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
