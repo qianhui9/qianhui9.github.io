@@ -44,6 +44,11 @@ My research interests mainly include V2X, Vehicle Edge Computing, Internet of Th
 </div>
 </div> -->
 
+- [A Collaborative Error Detection and Correction Scheme for Safety Message in V2X.]([https://ieeexplore.ieee.org/document/10535043])
+
+  **Hui Qian**, Hongmei Chai, Ammar Hawbani, Yuanguo Bi, Na Lin, Liang Zhao
+
+  IEEE Transactions on Mobile Computing
 
 - [Collaborative Overtaking Strategy for Enhancing Overall Effectiveness of Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/10535043])
 
