@@ -100,10 +100,10 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 - *2020.09* Bronze Award, 6th Anhui Province “Internet+” College Students Innovation and Entrepreneurship Competition.
 
 # 📖 Educations
-- *2025.06 - (now)*, Computer Science and Technology, Nanjing University. 
+- *2025.09 - (now)*, Computer Science and Technology, Nanjing University. 
 - *2022.09 - 2025.06*, Electronic Information, Shenyang Aerospace University.
 - *2018.09 - 2022.06*, Software Engineering, Chuzhou University.
 
 # 💬 Academic Exchange and Internships
-- *2023.07 - 2023.08*, Academic Exchange Program in Internet of Things (IoT), Tamkang University, Taiwan. 
+- *2019.07 - 2019.08*, Academic Exchange Program in Internet of Things (IoT), Tamkang University, Taiwan. 
 - *2019.03 - 2022.03*, Research Training in Smart Fire Protection Laboratory, Chuzhou University, Anhui. 
