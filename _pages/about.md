@@ -83,7 +83,7 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
   
   IEEE Transactions on Intelligent Transportation Systems
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025.06* Liaoning Province Outstanding Graduates
 - *2024.10* National Scholarship for Graduate Students.
 - *2022.07* Bronze Award, 10th “Challenge Cup” Anhui Provincial College Students’ Entrepreneurship Plan Competition
