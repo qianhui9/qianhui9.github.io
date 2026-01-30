@@ -58,31 +58,31 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 
   IEEE Transactions on Mobile Computing
 
-- [TRACER: Transfer Knowledge-Based Collaborative Vehicle Trajectory Prediction for Highway Traffic Toward Cross-Region Adaptivity.]([https://ieeexplore.ieee.org/document/10919186)
+- [TRACER: Transfer Knowledge-Based Collaborative Vehicle Trajectory Prediction for Highway Traffic Toward Cross-Region Adaptivity.](https://ieeexplore.ieee.org/document/10919186)
   
   **Hui Qian**, Xin Shi, Ammar Hawbani, Yuanguo Bi, Zhi Liu, Ammar Muthanna, Liang Zhao
   
   IEEE Transactions on Intelligent Transportation Systems
 
-- [Adaptive Nearest Neighbor Sememe Tree Generation Model.]([[https://ieeexplore.ieee.org/document/10535043](https://link.springer.com/chapter/10.1007/978-981-96-6603-4_15)])
+- [Adaptive Nearest Neighbor Sememe Tree Generation Model.](https://ieeexplore.ieee.org/document/10535043)
 
   Sijia Shen, Peiyan Wang, **Hui Qian**, Zhongwu Li
 
   International Conference on Neural Information Processing
 
-- [A Collaborative Error Detection and Correction Scheme for Safety Message in V2X.]([https://ieeexplore.ieee.org/document/10535043])
+- [A Collaborative Error Detection and Correction Scheme for Safety Message in V2X.](https://ieeexplore.ieee.org/document/10535043)
 
   **Hui Qian**, Hongmei Chai, Ammar Hawbani, Yuanguo Bi, Na Lin, Liang Zhao
 
   IEEE Transactions on Mobile Computing
 
-- [Collaborative Overtaking Strategy for Enhancing Overall Effectiveness of Mixed Connected and Connectionless Vehicles.]([https://ieeexplore.ieee.org/document/10535043])
+- [Collaborative Overtaking Strategy for Enhancing Overall Effectiveness of Mixed Connected and Connectionless Vehicles.](https://ieeexplore.ieee.org/document/10535043)
 
   **Hui Qian**, Liang Zhao, Ammar Hawbani, Zhi Liu, Keping Yu, Qiang He, Yuanguo Bi
 
   IEEE Transactions on Mobile Computing
 
-- [Overtaking Feasibility Prediction for Mixed Connected and Connectionless Vehicles.]([[https://ieeexplore.ieee.org/document/10535043](https://ieeexplore.ieee.org/document/10535043))
+- [Overtaking Feasibility Prediction for Mixed Connected and Connectionless Vehicles.](https://ieeexplore.ieee.org/document/10535043)
   
   Liang Zhao, **Hui Qian**, Ammar Hawbani, Ahmed Y. Al-Dubai, Zhiyuan Tan, Keping Yu, Albert Y. Zomaya
   
