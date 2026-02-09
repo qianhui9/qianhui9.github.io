@@ -104,6 +104,13 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 - *2022.09 - 2025.06*, Electronic Information, Shenyang Aerospace University.
 - *2018.09 - 2022.06*, Software Engineering, Chuzhou University.
 
+# 💼 Academic Services
+- Journal Reviewer
+
+   IEEE Transactions on Intelligent Transportation Systems
+
+- Conference Reviewer   
+
 # 💬 Academic Exchange and Internships
 - *2019.07 - 2019.08*, Academic Exchange Program in Internet of Things (IoT), Tamkang University, Taiwan. 
 - *2019.03 - 2022.03*, Research Training in Smart Fire Protection Laboratory, Chuzhou University, Anhui. 
