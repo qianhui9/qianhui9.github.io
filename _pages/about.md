@@ -19,7 +19,7 @@ redirect_from:
 
 # 😉 About Me
 
-Hi, I am currently working toward my PhD degree with the State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, China. Before that, I received my master's degree from the Department of Computer Science, Shenyang Aerospace University, Shenyang, China, in 2025, under the supervision of Prof.Liang Zhao. I have published more than 6 papers at the top international academic conferences and journals with total [![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fapi%2Fscholar%3Fuser%3DpBvsc1sAAAAJ&logo=google-scholar&label=Google%20Scholar&color=blue)](https://scholar.google.com/citations?user=pBvsc1sAAAAJ).
+Hi, I am currently working toward my PhD degree with the State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, China. Before that, I received my master's degree from the Department of Computer Science, Shenyang Aerospace University, Shenyang, China, in 2025, under the supervision of Prof.Liang Zhao. I have published more than 6 papers at the top international academic conferences and journals with total [![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-stats.vercel.app%2Fapi%3Fuser%3DpBvsc1sAAAAJ&logo=google-scholar&label=Google%20Scholar&color=blue)](https://scholar.google.com/citations?user=pBvsc1sAAAAJ).
 
 👏CONTACT ME: qianhui@smail.nju.edu.cn
 
