@@ -109,7 +109,9 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 
    IEEE Transactions on Intelligent Transportation Systems
 
-- Conference Reviewer   
+- Conference Reviewer
+
+  The 23rd IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2025)
 
 # 💬 Academic Exchange and Internships
 - *2019.07 - 2019.08*, Academic Exchange Program in Internet of Things (IoT), Tamkang University, Taiwan. 
