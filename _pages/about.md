@@ -109,7 +109,7 @@ Hi, I am currently working toward my PhD degree with the State Key Laboratory fo
 
    IEEE Transactions on Intelligent Transportation Systems
 
-  Journal of Intelligent & Robotic Systems
+  Journal of Intelligent and Robotic Systems
 
   Scientific Reports
 
